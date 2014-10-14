@@ -12,11 +12,11 @@ the following command:
     git remote set-url origin https://github.com/nabla-c0d3/sslyze.git
 
 
+=======
 SSLyze
 ======
 
-Fast and full-featured SSL scanner.
-
+Fast and full-featured SSL scanner. 
 
 Description
 -----------
@@ -47,7 +47,7 @@ Linux 32/64 bits and OS X 64 bits.
 SSLyze is statically linked with OpenSSL. For this reason, the easiest
 way to run SSLyze is to download one the pre-compiled packages available in
 the GitHub releases section for this project, at
-https://github.com/iSECPartners/sslyze/releases.
+https://github.com/nabla-c0d3/sslyze/releases.
 
 
 Usage
